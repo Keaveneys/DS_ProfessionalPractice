@@ -14,4 +14,4 @@ Let's get it gang, skrrr.
 
 
 # Uploaded Images
-![Sheesh] (assets/images/the whip.jpg)
+![Sheesh](assets/images/the whip.jpg)
