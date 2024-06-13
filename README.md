@@ -14,4 +14,5 @@ Let's get it gang, skrrr.
 
 
 # Uploaded Images
-![URL Link](assets/images/the whip.jpg)
+
+![Url link](assets/images/the whip.jpg)
