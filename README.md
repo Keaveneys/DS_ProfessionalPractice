@@ -11,3 +11,7 @@ Let's get it gang, skrrr.
 # URL 
 
 [URL Link](https://www.google.com/)
+
+
+# Uploaded Images
+![Sheesh](assets/images/the whip.jpg)
